@@ -14,7 +14,7 @@
 	    <Task>
 	    
 	      <Code Type="Class" Language="cs">
-	      <![CDATA[
+	      [CDATA[
 		using System;
 		using System.Runtime.InteropServices;
 		using Microsoft.Build.Framework;
@@ -86,7 +86,7 @@
 		      return true;
 		  } 
 		}     
-	      ]]>
+	      ]]
 	      </Code>
 	    </Task>
 	  </UsingTask>
